@@ -19,7 +19,12 @@
   "homepage": "https://github.com/LambdaSchool/Sprint-Challenge--Redux#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.1"
+    "cuid": "^2.1.8",
+    "express": "^4.17.1",
+    "redux": "^4.0.5",
+    "redux-logger": "^3.0.6",
+    "styled-components": "^5.0.1",
+    "thunk": "^0.0.1"
   },
   "devDependencies": {
     "nodemon": "^1.19.1"
